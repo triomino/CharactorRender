@@ -7,7 +7,12 @@
 简单的抗锯齿：增加采样点后取平均  <br>
 顶点着色器封装  <br>
 MVP矩阵传递  <br>
-  
+
+##测试结果
+![image](https://github.com/triomino/CharactorRender/blob/master/display/0.png)
+![image](https://github.com/triomino/CharactorRender/blob/master/display/1.png)
+![image](https://github.com/triomino/CharactorRender/blob/master/display/2.png)
+![image](https://github.com/triomino/CharactorRender/blob/master/display/3.png)
 ## 环境和依赖
 windows，除c++标准库没有其他链接库。  <br>
 glm库已经放在include中不过暂时用不到。
