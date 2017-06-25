@@ -8,6 +8,9 @@ struct Vertex{
     float y;
     float z;
     float gray;
+    
+    float nx, ny;
+    float tx, ty;
     Vertex(){}
     Vertex(float _x, float _y, float _z = 0.0f, float _g = MaxGrayScale) : x(_x), y(_y), z(_z), gray(_g){}
 };
