@@ -8,7 +8,7 @@
 顶点着色器封装  <br>
 MVP矩阵传递  <br>
 
-##测试结果
+## 测试结果
 ![image](https://github.com/triomino/CharactorRender/blob/master/display/0.png)
 ![image](https://github.com/triomino/CharactorRender/blob/master/display/1.png)
 ![image](https://github.com/triomino/CharactorRender/blob/master/display/2.png)
